@@ -1,2 +1,2 @@
 # HoppyHour
-Proyecto final Apps mociles
+Proyecto final Apps móviles
